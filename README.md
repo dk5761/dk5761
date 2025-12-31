@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am FrontEnd Dev, proficient with React.js, Tailwind CSS, Redux, JS/TS. etc...<br>Love to code to generate beautiful UIs.<br><br>Sometimes, just sometimes mate I like to code the backend with Node/Nest.JS or Flask/Django.<br><br>Interested in working with the cross-platform mobile development with Flutter or React-Native. 
+I am Fullstack Dev, proficient with React.js, Tailwind CSS, Redux, JS/TS. etc...<br>Love to code to generate beautiful UIs.<br><br>Sometimes, just sometimes mate I like to code the backend with Node/Nest.JS or Flask/Django.<br><br>Interested in working with the cross-platform mobile development with Flutter or React-Native. 
 
 
 ## 🌐 Socials:
